@@ -1,6 +1,6 @@
 # Git Demo: Chase Deskin 
 
-Actually learning Git!
+Actually learning Git!!!!!!!!!!!!!
 
 Gonna learn some cool stuff!
 
@@ -9,3 +9,6 @@ Gonna learn some cool stuff!
 -git push
 -git clone
 -get push
+
+## Cool Stuff
+-Learning Branching 
